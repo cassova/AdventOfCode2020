@@ -7,7 +7,7 @@ https://adventofcode.com/2020/about
 
 by Nicholas Miller
 
-All my solutions can be found in [Advent of Code 2020.ipynb](./Advent of Code 2020.ipynb)
+All my solutions can be found in [Advent of Code 2020.ipynb]('./Advent of Code 2020.ipynb')
 
 ## Day 1
 <details>
