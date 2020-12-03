@@ -5,7 +5,7 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 
 https://adventofcode.com/2020/about
 
-by Nicholas Miller
+Solutions by Nicholas Miller
 
 All my solutions can be found in file Advent of Code 2020.ipynb
 
